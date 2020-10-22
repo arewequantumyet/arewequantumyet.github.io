@@ -1,4 +1,4 @@
-# Not yet, but we have a few things.
+# <span style="color:#800000">Not yet, but we have a few things.</span>
 
 ## Quantum Computer Cloud Service Bindings
 [q1tsim](https://github.com/Q1tBV/q1tsim)
@@ -32,5 +32,4 @@ Rust bindings to liboqs, a [C package](https://github.com/open-quantum-safe/libo
 The Rust bindings to the C-implementations of quantum-safe encryption algorithms proposed to the NIST 
 [during this competition](https://csrc.nist.gov/projects/post-quantum-cryptography).
 
-
-Compiled with love by [florianreinhard](https://florianreinhard.de). Did I miss something? Drop me a [line](mailto:me@florianreinhard.de) or create a [pull request](https://github.com/arewequantumyet/arewequantumyet.github.io).
+<span style="font-size:12px;font-style: italic">Compiled with love by [florianreinhard](https://florianreinhard.de). Did I miss something? Drop me a [line](mailto:me@florianreinhard.de) or create a [pull request](https://github.com/arewequantumyet/arewequantumyet.github.io).</span>
