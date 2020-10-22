@@ -32,4 +32,4 @@ Rust bindings to liboqs, a [C package](https://github.com/open-quantum-safe/libo
 The Rust bindings to the C-implementations of quantum-safe encryption algorithms proposed to the NIST 
 [during this competition](https://csrc.nist.gov/projects/post-quantum-cryptography).
 
-<span style="font-size:12px;font-style: italic">Compiled with love by [florianreinhard](https://florianreinhard.de). Did I miss something? Drop me a [line](mailto:me@florianreinhard.de) or create a [pull request](https://github.com/arewequantumyet/arewequantumyet.github.io).</span>
+<span style="font-size:12px;font-style: italic">Compiled with love by [florianreinhard](https://florianreinhard.de). Did I miss something? Feel free to drop me a [line](mailto:me@florianreinhard.de) or create a [pull request](https://github.com/arewequantumyet/arewequantumyet.github.io).</span>
