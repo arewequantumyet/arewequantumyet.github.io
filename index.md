@@ -20,9 +20,8 @@ The Rust binding to libquantum, [a quantum simulator written in C](https://githu
 [RustQIP](https://github.com/Renmusxd/RustQIP)
 A gate-type simulation framework designed with graph building in mind.
 
-[unitary-quantum-simulator-rust](https://github.com/atilag/unitary-quantum-simulator-rust)
-According to the project page: Rust version of the Unitary Simulator found in the Python QISKit.
-Brought to you by Juan Gomez, member of the [IBM Research](https://github.com/IBMResearch) team.
+[qasmsim](https://github.com/delapuente/qasmsim) A QASM interpreter and quantum simulator in Rust.
+Written by Salvador de la Puente, member of IBM Research Quantum team.
 
 ## Post-Quantum Cryptography
 [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust)
