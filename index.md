@@ -23,6 +23,8 @@ A gate-type simulation framework designed with graph building in mind.
 [qasmsim](https://github.com/delapuente/qasmsim) A QASM interpreter and quantum simulator in Rust.
 Written by Salvador de la Puente, member of IBM Research Quantum team.
 
+[DQCsim](https://github.com/QE-Lab/dqcsim) The Delft Quantum & Classical simulator is a framework that can be used to tie components of quantum computer simulators together in a standardized yet flexible, developer-friendly, and reproducible way. 
+
 ## Post-Quantum Cryptography
 [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust)
 Rust bindings to liboqs, a [C package](https://github.com/open-quantum-safe/liboqs/) for quantum-safe KEM and digital signature alorithms.
