@@ -23,7 +23,9 @@ A gate-type simulation framework designed with graph building in mind.
 [qasmsim](https://github.com/delapuente/qasmsim) A QASM interpreter and quantum simulator in Rust.
 Written by Salvador de la Puente, member of IBM Research Quantum team.
 
-[DQCsim](https://github.com/QE-Lab/dqcsim) The Delft Quantum & Classical simulator is a framework that can be used to tie components of quantum computer simulators together in a standardized yet flexible, developer-friendly, and reproducible way. 
+[DQCsim](https://github.com/QE-Lab/dqcsim) The Delft Quantum & Classical simulator is a framework that can be used to tie components of quantum computer simulators together in a standardized yet flexible, developer-friendly, and reproducible way.
+
+[qoqo](https://github.com/HQSquantumsimulations/qoqo) qoqo is a toolkit to represent quantum circuits by [HQS Quantum Simulations](https://quantumsimulations.de). The qoqo toolkit contains for a pure rust library (roqoqo) and a python wrapper around this library (qoqo). qoqo provides a thin runtime to run quantum measurements, a way to serialize quantum circuits and measurement information and a collection of optional backends (e.g. [qoqo-quest](https://github.com/HQSquantumsimulations/qoqo-quest) for simulations with the C [QuEST](https://github.com/quest-kit/QuEST) library, [qoqo_qasm](https://github.com/HQSquantumsimulations/qoqo_qasm) for qasm export and [qoqo_aqt](https://github.com/HQSquantumsimulations/qoqo_aqt) for interfacing [AQT](https://www.aqt.eu) devices).
 
 ## Post-Quantum Cryptography
 [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust)
