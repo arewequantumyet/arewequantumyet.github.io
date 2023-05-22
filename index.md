@@ -6,7 +6,7 @@
 ## Quantum Computer Cloud Service Bindings
 [q1tsim](https://github.com/Q1tBV/q1tsim)
 A gate-type simulator crate, that not just simulates, but
-exports your circuits to Open QASM and C-Qasm, the former 
+exports your circuits to Open QASM and C-Qasm, the former
 being understood by IBM's Q Experience.
 
 ## Simulation & Circuit Design
@@ -28,12 +28,17 @@ Written by Salvador de la Puente, member of IBM Research Quantum team.
 
 [DQCsim](https://github.com/QE-Lab/dqcsim) The Delft Quantum & Classical simulator is a framework that can be used to tie components of quantum computer simulators together in a standardized yet flexible, developer-friendly, and reproducible way.
 
+[Spinoza](https://github.com/QuState/spinoza) A quantum state simulator that is
+one of the fastest open-source simulators. Spinoza is implemented using a
+functional approach, and it has a `QuantumCircuit` object-oriented interface,
+which partially matches Qiskit's interface.
+
 ## Post-Quantum Cryptography
 [liboqs-rust](https://github.com/open-quantum-safe/liboqs-rust)
 Rust bindings to liboqs, a [C package](https://github.com/open-quantum-safe/liboqs/) for quantum-safe KEM and digital signature alorithms.
 
 [pqcrypto](https://github.com/rustpq/pqcrypto)
-The Rust bindings to the C-implementations of quantum-safe encryption algorithms proposed to the NIST 
+The Rust bindings to the C-implementations of quantum-safe encryption algorithms proposed to the NIST
 [during this competition](https://csrc.nist.gov/projects/post-quantum-cryptography).
 
 <span style="font-size:12px;font-style: italic">Compiled with love by [florianreinhard](https://florianreinhard.de). Did I miss something? Feel free to drop me a [line](mailto:me@florianreinhard.de) or create a [pull request](https://github.com/arewequantumyet/arewequantumyet.github.io).</span>
